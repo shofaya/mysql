@@ -1,4 +1,12 @@
-# mysql
+# mysql Task
+Order by first name	2
+Where Customer ID = 1	2
+Select first name, last name, points and points+ 10	3
+Multiply points by 10 and add 100 and change column name to discount factor.	3
+Multiply unit price by 10% (1.1) and change column name to new price.	4
+Find birthdate less than 1991-01-01	4
+Create EER Diagram	5
+
 ! [Dashboard]()
 ![Screenshot (24)](https://github.com/shofaya/mysql/assets/50599405/41dba7ac-4db6-4ad3-a45c-a28c3ee97d73)
 ![Screenshot (23)](https://github.com/shofaya/mysql/assets/50599405/96bad064-0649-42d8-a072-df0aa29e38c1)
